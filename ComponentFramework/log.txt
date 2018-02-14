@@ -1,0 +1,2 @@
+INFO: Initializing the window and first scene ( \wdmycloudex2\timemachinebackup\2. humber\1. componentproject\summer2017a\graphicsframework1.1 - single mesh\componentframework\gamescenemanager.cpp: 120)
+INFO: 1.13.0 ( \wdmycloudex2\timemachinebackup\2. humber\1. componentproject\summer2017a\graphicsframework1.1 - single mesh\componentframework\window.cpp: 66)

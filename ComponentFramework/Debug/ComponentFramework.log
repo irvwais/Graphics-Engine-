@@ -1,0 +1,8 @@
+﻿Mesh.obj : error LNK2019: unresolved external symbol __imp__glDrawArrays@12 referenced in function "public: void __thiscall Mesh::Render(void)const " (?Render@Mesh@@QBEXXZ)
+Scene1.obj : error LNK2019: unresolved external symbol __imp__glClear@4 referenced in function "public: virtual void __thiscall GAME::Scene1::Render(void)const " (?Render@Scene1@GAME@@UBEXXZ)
+Scene1.obj : error LNK2019: unresolved external symbol __imp__glEnable@4 referenced in function "public: virtual void __thiscall GAME::Scene1::Render(void)const " (?Render@Scene1@GAME@@UBEXXZ)
+Scene1.obj : error LNK2019: unresolved external symbol __imp__glViewport@16 referenced in function "public: virtual void __thiscall GAME::Scene1::OnResize(int,int)" (?OnResize@Scene1@GAME@@UAEXHH@Z)
+Trackball.obj : error LNK2019: unresolved external symbol __imp__glGetIntegerv@8 referenced in function "public: void __thiscall GAME::Trackball::OnLeftMouseDown(int,int)" (?OnLeftMouseDown@Trackball@GAME@@QAEXHH@Z)
+Window.obj : error LNK2019: unresolved external symbol __imp__glGetString@4 referenced in function "protected: void __thiscall GAME::Window::GetInstalledOpenGLInfo(void)" (?GetInstalledOpenGLInfo@Window@GAME@@IAEXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\GameDev\_Projects\Visual Studio 2015\Projects\GraphicsFramework1.1 - Single mesh\GraphicsFramework1.1 - Single mesh\Debug\ComponentFramework.exe : fatal error LNK1120: 7 unresolved externals
